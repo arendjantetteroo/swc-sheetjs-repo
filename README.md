@@ -8,7 +8,7 @@ Install deps:
 npm install
 ```
 
-dev mode works (click the "Click to Generate file1" button and then open the downloaded file in Excel/LibreOffice Calc)
+dev mode works (click the "Click to Generate file!" button and then open the downloaded file in Excel/LibreOffice Calc)
 ```
 npm run dev
 ```
