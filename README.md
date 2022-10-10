@@ -14,5 +14,9 @@ npm run dev
 ```
 
 in build/start, the resulting xls is corrupt. 
+```
+npm run build
+npm run start
+```
 
 If you set swcMinify:false, it works again
